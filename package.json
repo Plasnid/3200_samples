@@ -1,0 +1,24 @@
+{
+  "name": "3200_samples",
+  "version": "1.0.0",
+  "description": "code samples from 3200",
+  "main": "index.js",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Plasnid/3200_samples.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Plasnid/3200_samples/issues"
+  },
+  "homepage": "https://github.com/Plasnid/3200_samples#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
