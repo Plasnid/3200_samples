@@ -1,0 +1,11 @@
+{
+    "weather":[
+        {"day": "Monday", "conditions":"rainy"},
+        {"day": "Tuesday", "conditions":"sunny"},
+        {"day": "Wednes", "conditions":"cloudy"},
+        {"day": "Thursday", "conditions":"snowy"},
+        {"day": "Friday", "conditions":"light showers"},
+        {"day": "Saturday", "conditions":"fog"},
+        {"day": "Sunday", "conditions":"hail"}
+    ]
+}
