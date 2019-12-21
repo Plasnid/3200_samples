@@ -34,3 +34,13 @@ newTitle.style.fontSize = "2em";
 //finally if we want to remove something we can use removeElement
 let badTitle = document.querySelector("h6");
 badTitle.remove();
+
+/**
+ * every element of a webpage has a list of classes it uses
+ * 
+ * sometimes that list is empty, sometimes it is full.  We can access this list
+ * with classlist, then we can add, remove, or toggle a class
+ * 
+ * lets get the h1, and add the class largeTitle
+ */
+document.querySelector("h1").classList.add("specialTitle");
