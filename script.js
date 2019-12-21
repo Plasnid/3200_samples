@@ -1,12 +1,1 @@
-
-
-
-
-
-
-
-
-
-
-
-
+console.log("tutorial time!");
