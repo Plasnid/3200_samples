@@ -15,7 +15,7 @@ Once you create your tip sheet, submit it through DC Connect. Each tip sheet is 
 If your tip sheet is approved, please bring it to the bonus test.  Refer to it during the test to assist you in answering questions.
 
 ## Bonus Test
-The optional bonus test is worth up to 10% towards your final grade.  If you take the optional bonus test, you will be eligible for up to a 20% addition to your final grade.  Up to 10% for your Tip Sheet, and up to 10% for your test.
+The optional bonus test is worth up to 10% towards your final grade.  If you take the optional bonus test, you will be eligible for up to a 20% addition to your final grade.  Up to 10% for your Tip Sheet, and up to 10% for your test.  The tip sheet only counts for grading if the optional bonus test is taken.
 
 The test will be composed of 5 sections.  Each section gives a choice of two questions.  Pick 1 question from each section to answer.  The sections are:
 
