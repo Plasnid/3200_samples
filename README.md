@@ -6,5 +6,6 @@ Welcome to the samples repository.  Each of the major coding samples from this s
 
 ## Contents
 - arraysObjects.js
+
 This file contains samples of the structure of arrays and objcts.  It also covers array methods to make searching for data a breeze.
 
