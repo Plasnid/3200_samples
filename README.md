@@ -1,13 +1,13 @@
-# 3200_samples
+# 3200 Tip Sheet Code Samples
 code samples from 3200
 
 ## Samples Repository
 Welcome to the samples repository.  Each of the major coding samples from this semester has been broken down into a separate file.  Please examine each of the js files for examples of how to build the structures we have studied in the second half of the semester.
 
 ## Make A Tip Sheet
-In the JavaScript files listed below are examples of the structures studied over the second half of the 3200 course.  For the upcoming bonus test, read through each of the files.  Create a handwritten or typed tipsheet showing simple examples of what you see.  You can use 1-2 sheets of 8.5x11 paper for your tipsheet.
+In the JavaScript files listed below are examples of the structures studied over the second half of the 3200 course.  For the upcoming bonus test, read through each of the files.  Create a handwritten or typed tip sheet showing simple examples of what you see.  You can use 1-2 sheets of 8.5x11 paper for your tip sheet.
 
-Please note that your tipsheet should not be a printout or photo of what you see here.  Take the time to summarize the contents so you may better remember them during the test.  Practice and recall are critical.
+Please note that your tip sheet should not be a printout or photo of what you see here.  Take the time to summarize the contents so you may better remember them during the test.  Practice and recall are critical.
 
 ## How will I use the Tip Sheet
 Once you create your tip sheet, submit it through DC Connect. Each tip sheet is unique to the student.  Please do not share tip sheets.  It is important to make your own.  Your tip sheet will be graded on it's coverage of the materials listed in the files from this repo, and ease of use.
