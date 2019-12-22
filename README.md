@@ -1,11 +1,26 @@
-# 3200 Tip Sheet Code Samples
-code samples from 3200
+# 3200 Bonus Activity & Tip Sheet Code Samples
+Looking for an grade up to 20%?  Here is what to do:
+ - read through the contents of this repo
+ - summarize the contents in a hand written tip sheet of 1 - 2 pages
+ - submit the tip sheet through DC Connect
+ - bring your tip sheep to a bonus test
+ - get up to 10%  bonus from your tip sheet and up to 10% for the test(must take test for the bonus for both the tip sheet and the test)
+
+ ## Not sure how to prepare a teacher approved cheat sheet?
+ Check out this link!
+
+ https://www.fastweb.com/student-life/articles/creating-the-perfect-teacher-permitted-exam-cheat-sheet
+
+## What can a cheat sheet look like?
+Check out this link!
+
+https://i.pinimg.com/originals/56/17/a3/5617a3d2d6c7af99002f7462672af888.jpg
 
 ## Samples Repository
 Welcome to the samples repository.  Each of the major coding samples from this semester has been broken down into a separate file.  Please examine each of the js files for examples of how to build the structures we have studied in the second half of the semester.
 
 ## Make A Tip Sheet
-In the JavaScript files listed below are examples of the structures studied over the second half of the 3200 course.  For the upcoming bonus test, read through each of the files.  Create a handwritten or typed tip sheet showing simple examples of what you see.  You can use 1-2 sheets of 8.5x11 paper for your tip sheet.
+In the JavaScript files listed below are examples of the structures studied over the second half of the 3200 course.  For the upcoming bonus test, read through each of the files.  Create a handwritten tip sheet showing simple examples of what you see.  You can use 1-2 sheets of 8.5x11 paper for your tip sheet.
 
 Please note that your tip sheet should not be a printout or photo of what you see here.  Take the time to summarize the contents so you may better remember them during the test.  Practice and recall are critical.
 
