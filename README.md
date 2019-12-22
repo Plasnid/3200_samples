@@ -1,5 +1,5 @@
 # 3200 Bonus Activity & Tip Sheet Code Samples
-Looking for an grade up to 20%?  Here is what to do:
+Looking for a bonus grade up to 20% for 3200?  Here is what to do:
  - read through the contents of this repo
  - summarize the contents in a hand written tip sheet of 1 - 2 pages
  - submit the tip sheet through DC Connect
