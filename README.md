@@ -36,7 +36,7 @@ The test will be composed of 5 sections.  Each section gives a choice of two que
 
 - Variables
 - Functions
-- Decision Structures
+- Classes
 - DOM Manipulation
 - Scope Binding
 
