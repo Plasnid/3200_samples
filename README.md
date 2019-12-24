@@ -26,7 +26,7 @@ In the JavaScript files listed below are examples of the structures studied over
 Please note that your tip sheet should not be a printout or photo of what you see here.  Take the time to summarize the contents so you may better remember them during the test.  Practice and recall are critical.
 
 ## How will I use the Tip Sheet
-Once you create your tip sheet, submit it to me at stuart.sackler@durhamcollege.ca. Each tip sheet is unique to the student.  Please do not share tip sheets.  It is important to make your own.  Your tip sheet will be graded on it's coverage of the materials listed in the files from this repo, and ease of use.
+Once you create your tip sheet, submit it to me at stuart.sackler@durhamcollege.ca. Each tip sheet is unique to the student.  Please do not share tip sheets.  It is important to make your own.  Your tip sheet is your ticket to the bonus test and will be judged on it's coverage of the materials listed in the files from this repo, and ease of use.
 
 If your tip sheet is approved, please bring it to the bonus test.  Refer to it during the test to assist you in answering questions.
 
