@@ -5,7 +5,7 @@ Looking for a bonus grade up to 20% for 3200?  Here is what to do:
  - summarize the contents in a hand written tip sheet of 1 - 2 pages.  Your tip sheet is not a group assignment!  No sharing!
  - submit the tip sheet(photo or scan) through email to stuart.sackler@durhamcollege.ca by no later than December 30th, 2019
  - bring your tip sheep to a bonus test(January 6th at 10:30am room info to come...)
- - get up to 10%  bonus from your tip sheet and up to 10% for the test(must take test for the bonus for both the tip sheet and the test)
+ - get up to 20% for the test
 
  ## Not sure how to prepare a teacher approved cheat sheet?
  Check out this link!
@@ -26,12 +26,12 @@ In the JavaScript files listed below are examples of the structures studied over
 Please note that your tip sheet should not be a printout or photo of what you see here.  Take the time to summarize the contents so you may better remember them during the test.  Practice and recall are critical.
 
 ## How will I use the Tip Sheet
-Once you create your tip sheet, submit it through DC Connect. Each tip sheet is unique to the student.  Please do not share tip sheets.  It is important to make your own.  Your tip sheet will be graded on it's coverage of the materials listed in the files from this repo, and ease of use.
+Once you create your tip sheet, submit it to me at stuart.sackler@durhamcollege.ca. Each tip sheet is unique to the student.  Please do not share tip sheets.  It is important to make your own.  Your tip sheet will be graded on it's coverage of the materials listed in the files from this repo, and ease of use.
 
 If your tip sheet is approved, please bring it to the bonus test.  Refer to it during the test to assist you in answering questions.
 
 ## Bonus Test
-The optional bonus test is worth up to 10% towards your final grade.  If you take the optional bonus test, you will be eligible for up to a 20% addition to your final grade.  Up to 10% for your Tip Sheet, and up to 10% for your test.  The tip sheet only counts for grading if the optional bonus test is taken.
+The optional bonus test is worth up to 20% towards your final grade. Your tip sheet if approved by the professor it is your ticket to the test.
 
 The test will be composed of 5 sections.  Each section gives a choice of two questions.  Pick 1 question from each section to answer.  The sections are:
 
