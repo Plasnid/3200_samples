@@ -1,9 +1,10 @@
 # 3200 Bonus Activity & Tip Sheet Code Samples
 Looking for a bonus grade up to 20% for 3200?  Here is what to do:
+ - write to me at stuart.sackler@durhamcollege.ca by December 30th to confirm you want to take part in the bonus
  - read through the contents of this repo
- - summarize the contents in a hand written tip sheet of 1 - 2 pages
- - submit the tip sheet through DC Connect
- - bring your tip sheep to a bonus test
+ - summarize the contents in a hand written tip sheet of 1 - 2 pages.  Your tip sheet is not a group assignment!  No sharing!
+ - submit the tip sheet(photo or scan) through email to stuart.sackler@durhamcollege.ca by no later than December 30th, 2019
+ - bring your tip sheep to a bonus test(January 6th at 10:30am room info to come...)
  - get up to 10%  bonus from your tip sheet and up to 10% for the test(must take test for the bonus for both the tip sheet and the test)
 
  ## Not sure how to prepare a teacher approved cheat sheet?
